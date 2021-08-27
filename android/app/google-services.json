@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290320285897",
+    "project_id": "tastee-d3620",
+    "storage_bucket": "tastee-d3620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290320285897:android:13f71d71dd20d37c328d18",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290320285897-cuklf1on0lg941f11icom8brh0plva5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDavhZ29-6HVgfFW-T5yNgZKjxwh_MbMIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290320285897-cuklf1on0lg941f11icom8brh0plva5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
